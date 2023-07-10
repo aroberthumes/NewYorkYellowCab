@@ -21,7 +21,7 @@ Install Python dependencies: pip install pandas, numpy, xgboost, holidays, sklea
 
 Open the .py file in your preferred code editor.
 
-Usage
+**Usage**
 
 Open these links to view the dashboards:
 https://public.tableau.com/app/profile/anthony.humes/viz/NewYorkCityYellowTaxiRides/Dashboard1
