@@ -19,9 +19,10 @@ Clone the repo: git clone https://github.com/aroberthumes/NewYorkYellowCab.git
 
 Install Python dependencies: pip install pandas, numpy, xgboost, holidays, sklearn, requests and os
 
-Open the .ipynb file in your preferred code editor.
+Open the .py file in your preferred code editor.
 
 Usage
+
 Open these links to view the dashboards:
 https://public.tableau.com/app/profile/anthony.humes/viz/NewYorkCityYellowTaxiRides/Dashboard1
 https://public.tableau.com/app/profile/anthony.humes/viz/ForecastedNewYorkCityYellowTaxiRides/Dashboard1Prediction
@@ -43,6 +44,9 @@ To improve forecasting for February 1st 2022 you can scrape or download more dat
 **Deployment**
 
 The dashboards can be viewed in Tableau, and the forecast can be run from the command line using Python.
+
+https://public.tableau.com/app/profile/anthony.humes/viz/NewYorkCityYellowTaxiRides/Dashboard1
+https://public.tableau.com/app/profile/anthony.humes/viz/ForecastedNewYorkCityYellowTaxiRides/Dashboard1Prediction
 
 **Contributing**
 
