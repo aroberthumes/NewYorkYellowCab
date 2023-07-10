@@ -35,7 +35,7 @@ The data for this project was retrieved from the NYC Taxi and Limousine Commissi
 
 **Methodology**
 
-The data was scraped from the NYC Taxi and Limousine Commission website and preprocessed to clean it up for modeling. Features used in the model include the features in the CSV file as well as hour, weekday, whether the day is a holiday, and the month. A grid search was performed to find the best parameters for the XGBoost model.
+The data was scraped from the NYC Taxi and Limousine Commission website and preprocessed to clean it up for modeling. Features used in the model include the features in the yellow_tripdata_2022-01.parquet file as well as hour, weekday, whether the day is a holiday, the month and also whether it's a weekend. A grid search was performed to find the best parameters for the XGBoost model. Once the best parameters were found they were applied to the model.
 
 To validate the model, a baseline test was run to compare the XGBoost model with a baseline average model. The model was trained on data up to January 24th, and tested on data from January 25th through 31st.
 
