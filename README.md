@@ -10,14 +10,14 @@ To get started with this project, you need to clone the repository to your local
 **Prerequisites**
 
 Tableau Desktop or Tableau Public for viewing the dashboards
-Python (with the libraries pandas, numpy, XGBoost, holidays and sklearn )
+Python (with the libraries pandas, numpy, XGBoost, holidays, sklearn, requests and os )
 A code editor such as VSCode
 
 **Installation**
 
 Clone the repo: git clone https://github.com/aroberthumes/NewYorkYellowCab.git
 
-Install Python dependencies: pip install pandas, numpy, xgboost, holidays and sklearn
+Install Python dependencies: pip install pandas, numpy, xgboost, holidays, sklearn, requests and os
 
 Open the .ipynb file in your preferred code editor.
 
