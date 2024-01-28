@@ -201,5 +201,5 @@ all_predictions['predicted_total_amount'] = all_predictions['predicted_total_amo
 print('Predictions for February 1st, 2022:')
 print(all_predictions)
 
-all_predictions.to_csv('C:/Users/arobe/OneDrive/Documents/Feb1_taxi_predictions.csv')
+all_predictions.to_csv('file/to/path/Feb1_taxi_predictions.csv')
 
